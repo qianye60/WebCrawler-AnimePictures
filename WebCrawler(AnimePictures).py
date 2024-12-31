@@ -6,8 +6,6 @@ import json
 #os.chdir(os.path.dirname(__file__)) Drission会根据os模块的工作路径来确定相对路径位置，所以要用这个来更改当前工作路径为py文件所在
 if not os.path.exists("pictures"):#判断文件夹是否存在
     os.mkdir("pictures")#创建
-d = 1
-
 
 class picture:
     def __init__(self,setlist):
