@@ -35,7 +35,7 @@ pip install DrissionPage
 
     ```bash
     git clone https://github.com/qianye60/WebCrawler-AnimePictures.git
-    cd 您的仓库名
+    cd WebCrawler-AnimePictures
     ```
 
 2.  **运行爬虫**：
